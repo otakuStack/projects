@@ -3,7 +3,7 @@
 Real-Time Deepfake Video Call Detector
 
 Version: 1.0
-Owner: [Your Name]
+Owner: [Dev]
 Status: Draft
 Target: Portfolio / Student Research Project
 
